@@ -22,7 +22,14 @@ const speakers = [
     title: 'Associate Software Developer | India',
     description:
       ' Adrian, I wanted to thank you for your React courses. I have personally learned a lot from them and landed a full-time job as a JavaScript developer two days ago.',
-    image: './assets/3.png',
+    image: './assets/1.png',
+  },
+  {
+    name: 'Akshay Mishra',
+    title: 'Associate Software Developer | India',
+    description:
+      ' Adrian, I wanted to thank you for your React courses. I have personally learned a lot from them and landed a full-time job as a JavaScript developer two days ago.',
+    image: './assets/2.png',
   },
   {
     name: 'Akshay Mishra',
@@ -36,21 +43,14 @@ const speakers = [
     title: 'Associate Software Developer | India',
     description:
       ' Adrian, I wanted to thank you for your React courses. I have personally learned a lot from them and landed a full-time job as a JavaScript developer two days ago.',
-    image: './assets/3.png',
+    image: './assets/1.png',
   },
   {
     name: 'Akshay Mishra',
     title: 'Associate Software Developer | India',
     description:
       ' Adrian, I wanted to thank you for your React courses. I have personally learned a lot from them and landed a full-time job as a JavaScript developer two days ago.',
-    image: './assets/3.png',
-  },
-  {
-    name: 'Akshay Mishra',
-    title: 'Associate Software Developer | India',
-    description:
-      ' Adrian, I wanted to thank you for your React courses. I have personally learned a lot from them and landed a full-time job as a JavaScript developer two days ago.',
-    image: './assets/3.png',
+    image: './assets/2.png',
   },
   {
     name: 'Akshay Mishra',

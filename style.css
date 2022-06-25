@@ -53,6 +53,10 @@
   justify-content: center;
 }
 
+#about-link {
+  color: #ec5242;
+}
+
 .header .navbar li a {
   display: block;
   border-radius: 0.5rem;
@@ -492,7 +496,13 @@
 
 /* footer-ends */
 
-about-section-start .welcome-page {
+/* about-section-start  */
+
+#home-link {
+  color: #ec5242;
+}
+
+.welcome-page {
   background-image: url("./assets/bkgrnd.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -720,19 +730,31 @@ about-section-start .welcome-page {
     transform: none;
   }
 
+  .logo {
+    max-width: 40%;
+  }
+
   .header .navbar ul {
     display: flex;
     list-style: none;
     align-items: center;
     justify-content: center;
-    padding-top: 2%;
+    padding-top: 5%;
   }
 
   .header .navbar ul li a {
-    font-size: 1.5rem;
+    font-size: 1rem;
     text-transform: capitalize;
     font-weight: 700;
     color: #272a31;
+  }
+
+  .btn {
+    padding: 0 9px;
+  }
+
+  #start-btn {
+    padding: 0 9px;
   }
 
   .header .menu-icon {
@@ -874,7 +896,7 @@ about-section-start .welcome-page {
   }
 
   .navbar .logo img {
-    width: 13vw;
+    width: 40%;
     padding: 5% 0 0 0;
     margin-top: 10%;
     cursor: pointer;
@@ -909,6 +931,7 @@ about-section-start .welcome-page {
   /* partners-end */
 
   /* about-session-starts */
+
   .welcome-container {
     padding: 0 150px;
     margin-top: 70px;
@@ -957,6 +980,10 @@ about-section-start .welcome-page {
     display: none;
   }
 
+  #hidden2 {
+    display: none;
+  }
+
   #show {
     display: block;
   }
@@ -969,4 +996,5 @@ about-section-start .welcome-page {
 
   /* about-session-ends */
 }
+
 /* desktop-version-end  */
