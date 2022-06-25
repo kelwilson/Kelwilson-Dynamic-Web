@@ -239,6 +239,7 @@
 
 .partners {
   display: grid;
+  margin-left: 120px;
 }
 
 .testimonials {
@@ -387,7 +388,7 @@
   text-align: center;
 }
 
-.partners-img hr {
+#img-line {
   margin: 2% 48%;
   background-color: #eb200a;
 }
