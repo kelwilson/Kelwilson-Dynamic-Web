@@ -1,4 +1,4 @@
-<!-- ![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # capstone-project
 
@@ -15,13 +15,13 @@ This is the first Microverse capstone project meant to summarize all the content
 
 ## Getting Started
 
-**My project works on mobile and disktop using @Media queries .**
+**My project works on mobile and desktop using @Media queries .**
 
 ---
 
 To get a local copy up and run:
 
-- git clone git@github.com:nickEmma/Capstone-Project-1.git in your terminal
+- git clone https://github.com/kelwilson/First-Capstone-Project.git in your terminal
 
 ### Prerequisites
 
@@ -47,7 +47,7 @@ You're free to use this project however you like it for educational purposes. Ju
 
 ### LIVE DEMO
 
-Check the live demo here [LINK]()
+Check the live demo here [LINK](https://kelwilson.github.io/First-Capstone-Project/)
 
 ## Author
 
@@ -73,4 +73,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This Project Is Not licensed. -->
+This Project Is Not licensed.
