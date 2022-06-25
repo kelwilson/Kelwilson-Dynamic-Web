@@ -996,6 +996,7 @@
     padding: 50px;
     font-size: 15px;
     font-weight: 300;
+    max-width: 80%;
   }
 
   /* about-session-ends */
