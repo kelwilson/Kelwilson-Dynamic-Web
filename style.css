@@ -51,6 +51,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  max-width: 20%;
+}
+
+.logo img {
+  width: 100%;
 }
 
 #about-link {
@@ -63,9 +68,9 @@
   color: var(--dark-blue);
   font-weight: 600;
   margin: 1rem;
-  padding: 1.5rem;
+  padding: 1rem;
   text-transform: capitalize;
-  font-size: 3rem;
+  font-size: 1.5rem;
   text-align: center;
 }
 
@@ -273,7 +278,7 @@
   opacity: 70%;
   border-radius: 50px;
   background-color: hsl(3, 100%, 49%);
-  margin: 0 12px 20px 12px;
+  margin: 0 48% 20px;
 }
 
 .students-testimonials {
@@ -286,6 +291,10 @@
   display: flex;
   flex-direction: column;
   gap: 5px;
+}
+
+.student-info hr {
+  margin-right: 90%;
 }
 
 .student-name {
@@ -366,6 +375,21 @@
   display: grid;
   max-width: 100%;
   background: #272a31;
+  opacity: 80%;
+  padding: 5% 0;
+}
+
+.partners-img-title {
+  font-family: "lato-regular", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  color: #d3d3d3;
+  text-align: center;
+}
+
+.partners-img hr {
+  margin: 2% 48%;
+  background-color: #eb200a;
 }
 
 .partners-images {
@@ -374,6 +398,8 @@
   justify-content: center;
   flex-wrap: wrap;
   flex: 1 1 10%;
+  gap: 30px;
+  margin: 5px 0;
 }
 
 .partners-images img {
@@ -455,8 +481,8 @@
 }
 
 .contact-div {
-  background: #d3d3d3;
-  border: 2px solid #d3d3d3;
+  background: #f5f5f5;
+  border: 2px solid #f5f5f5;
 }
 
 .contact {
@@ -491,7 +517,7 @@
 
 .attribution a > img {
   max-width: 50%;
-  background: #d3d3d3;
+  background: #f5f5f5;
 }
 
 /* footer-ends */
@@ -710,7 +736,7 @@
   }
 
   .navbar-nav a {
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin: 10px;
     text-transform: capitalize;
     color: #fff;
@@ -731,7 +757,7 @@
   }
 
   .logo {
-    max-width: 40%;
+    max-width: 20%;
   }
 
   .header .navbar ul {
@@ -754,7 +780,13 @@
   }
 
   #start-btn {
-    padding: 0 9px;
+    color: #ec5242;
+    border: 5px solid #ec5242;
+    margin-bottom: 25px;
+    padding: 10px 20px;
+    background-color: transparent;
+    display: block;
+    border-radius: 0;
   }
 
   .header .menu-icon {
@@ -897,9 +929,10 @@
 
   .navbar .logo img {
     width: 40%;
-    padding: 5% 0 0 0;
-    margin-top: 10%;
+    padding: 10px;
+    margin-top: 40px;
     cursor: pointer;
+    margin-right: 40px;
   }
 
   .more-info {

@@ -2,7 +2,7 @@
 
 # capstone-project
 
-## Description the project.
+## Description the project
 
 This is the first Microverse capstone project meant to summarize all the content learned through module 1. The objective was to mimic the appearance of a landing page, in a similar way a web developer would receive the requirements as if it were in a job.
 
@@ -35,7 +35,7 @@ To get a local copy up and run:
 - npm install --save-dev hint@6.x
 - npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 
-### Run the following tests:
+### Run the following tests
 
 - npx hint .
 - npx stylelint "\*_/_.{css,scss}"
@@ -70,6 +70,18 @@ Give a ⭐️ if you like this project!
 - Microverse
 - Inspiration
 - etc
+
+## Attibutions
+
+🤝 **To the author of this great piece with proper attributions given to the author and community below**
+
+- Title : CC Global Summit 2015
+
+- Author : [@Cindy Shin](https://www.behance.net/adagio07)
+
+- Source : (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+
+- License :[Creative Commons Attribution 4.0 International License] (href="http://creativecommons.org/licenses/by/4.0/")
 
 ## 📝 License
 
