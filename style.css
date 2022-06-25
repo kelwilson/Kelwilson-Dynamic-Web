@@ -984,6 +984,10 @@
     display: none;
   }
 
+  #blank button {
+    display: none;
+  }
+
   #show {
     display: block;
   }
