@@ -492,8 +492,7 @@
 
 /* footer-ends */
 
-/* about-section-start */
-.welcome-page {
+about-section-start .welcome-page {
   background-image: url("./assets/bkgrnd.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -972,5 +971,3 @@
 }
 
 /* desktop-version-end  */
- */
-
