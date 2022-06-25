@@ -239,7 +239,6 @@
 
 .partners {
   display: grid;
-  margin-left: 120px;
 }
 
 .testimonials {
@@ -755,10 +754,12 @@
     background-color: #fff;
     padding: 58px;
     transform: none;
+    width: 100%;
   }
 
   .logo {
     max-width: 20%;
+    margin-left: -15px;
   }
 
   .header .navbar ul {
@@ -788,6 +789,7 @@
     background-color: transparent;
     display: block;
     border-radius: 0;
+    margin-right: 95px;
   }
 
   .header .menu-icon {
@@ -916,6 +918,11 @@
   /* testimonial-section-end */
 
   /* partners-start */
+
+  .partners {
+    margin-left: 80px;
+  }
+
   .partners-title {
     font-size: 25px;
   }
