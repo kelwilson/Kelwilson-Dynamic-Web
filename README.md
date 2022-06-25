@@ -1,62 +1,65 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# capstone-project
 
-> Description the project.
+## Description the project
 
+This is the first Microverse capstone project meant to summarize all the content learned through module 1. The objective was to mimic the appearance of a landing page, in a similar way a web developer would receive the requirements as if it were in a job.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML/CSS and Javascript
+- Visual Studio Code
+- Chrome Developer Tools
+- following github flows standards.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**My project works on mobile and desktop using @Media queries .**
 
+---
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and run:
+
+- git clone https://github.com/kelwilson/First-Capstone-Project.git in your terminal
 
 ### Prerequisites
 
-### Setup
+- Git/Github
+- VSCode or another equivalent tool
+- knowledge in Html, Css and Javascript
 
 ### Install
 
+- npm install -g @lhci/cli@0.7.x
+- npm install --save-dev hint@6.x
+- npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+
+### Run the following tests
+
+- npx hint .
+- npx stylelint "\*_/_.{css,scss}"
+- npx eslint .
+
 ### Usage
 
-### Run tests
+You're free to use this project however you like it for educational purposes. Just keep in mind the acknowledgment described below
 
-### Deployment
+### LIVE DEMO
 
+Check the live demo here [LINK](https://kelwilson.github.io/First-Capstone-Project/)
 
+## Author
 
-## Authors
+👤 **KELWILSON**
 
-👤 **Author1**
+- GitHub: [@githubhandle](https://github.com/kelwilson)
+- Twitter: [@BesongMaris](https://twitter.com/BesongMaris)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/kelly-besong-b33074237/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## 🤝 credit
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+[@Cindy Shin](https://www.behance.net/adagio07) Thanks for this amazing Design.
 
 ## Show your support
 
@@ -64,10 +67,22 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Microverse
 - Inspiration
 - etc
 
+## Attibutions
+
+🤝 **To the author of this great piece with proper attributions given to the author and community below**
+
+- Title : CC Global Summit 2015
+
+- Author : [@Cindy Shin](https://www.behance.net/adagio07)
+
+- Source : (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+
+- License :[Creative Commons Attribution 4.0 International License] (href="http://creativecommons.org/licenses/by/4.0/")
+
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This Project Is Not licensed.
