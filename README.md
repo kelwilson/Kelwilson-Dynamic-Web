@@ -54,7 +54,7 @@ Check the live demo here [LINK](https://kelwilson.github.io/First-Capstone-Proje
 👤 **KELWILSON**
 
 - GitHub: [@githubhandle](https://github.com/kelwilson)
-- Twitter: [@techieEmma](https://twitter.com/BesongMaris)
+- Twitter: [@BesongMaris](https://twitter.com/BesongMaris)
 - LinkedIn: [@LinkedIn](https://www.linkedin.com/in/kelly-besong-b33074237/)
 
 ## 🤝 credit
