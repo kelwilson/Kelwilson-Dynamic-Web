@@ -205,7 +205,7 @@
   color: #ec5242;
   font-weight: 900;
 }
-/* 
+
 .catalog-description p {
   font-family: "cocogoose", sans-serif;
   font-size: 11px;
@@ -306,7 +306,7 @@
 /* testimonials-end */
 
 /* footer-start */
-.partners-container {
+/* .partners-container {
   display: flex;
   flex-direction: column;
   align-items: center;
