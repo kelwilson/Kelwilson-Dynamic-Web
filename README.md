@@ -1,5 +1,4 @@
-<--![](https://img.shields.io/badge/Microverse-blueviolet)-->
-
+![](https://img.shields.io/badge/Microverse-blueviolet)
 # capstone-project
 
 ## Description the project
