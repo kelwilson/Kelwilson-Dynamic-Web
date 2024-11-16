@@ -5,7 +5,7 @@
 
 ## Project Description
 
-This is the first Microverse capstone project meant to summarize all the content learned through module 1. The objective was to mimic the appearance of a landing page, in a similar way a web developer would receive the requirements as if it were in a job.
+A coding BootCamp, where individuals can register and choose their preferred path to learn how to code
 
 ## Built With
 
