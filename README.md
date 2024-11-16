@@ -67,8 +67,6 @@ Check the live demo here [LINK](https://kelwilson.github.io/First-Capstone-Proje
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Microverse
 - Inspiration
 - etc
 
